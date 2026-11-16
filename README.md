@@ -2,6 +2,8 @@
 
 An interactive, data-driven web application built with **Streamlit** and **Plotly** to analyze the profound relationship between social media usage behaviors, demographic patterns, platform dependencies, and user mental wellbeing.
 
+🔗 **Live Streamlit Dashboard:** [View Live App](https://social-media-addiction-and-mental-wellbeings.streamlit.app/)
+
 ---
 
 ## 🌟 Key Features
@@ -30,7 +32,7 @@ An interactive, data-driven web application built with **Streamlit** and **Plotl
 ## 📂 Project Directory Structure
 
 ```text
-social-media-addiction-dashboard/
+social-media-addiction-and-mental-wellbeings/
 │
 ├── app.py                                   # Main Streamlit application
 ├── requirements.txt                         # Required Python dependencies
